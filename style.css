@@ -7,9 +7,7 @@
 
 body {
     display: flex;
-    flex-direction: column;.dot {
-  box-sizing: border-box; /* So borders don't mess up sizing */
-}
+    flex-direction: column;
     align-items: center;
 }
 
