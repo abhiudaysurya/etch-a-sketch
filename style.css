@@ -1,0 +1,25 @@
+#container {
+    border: 1px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    display: flex;
+    flex-direction: column;.dot {
+  box-sizing: border-box; /* So borders don't mess up sizing */
+}
+    align-items: center;
+}
+
+#size {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 40px;
+}
+
+.dot {
+  box-sizing: border-box; /* So borders don't mess up sizing */
+  aspect-ratio: 1 / 1;
+}
